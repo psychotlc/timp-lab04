@@ -1,0 +1,13 @@
+/home/narek/Документы/timp/timp-lab04/lab03/build/CMakeFiles/hello_world.dir
+/home/narek/Документы/timp/timp-lab04/lab03/build/CMakeFiles/equation.dir
+/home/narek/Документы/timp/timp-lab04/lab03/build/CMakeFiles/edit_cache.dir
+/home/narek/Документы/timp/timp-lab04/lab03/build/CMakeFiles/rebuild_cache.dir
+/home/narek/Документы/timp/timp-lab04/lab03/build/formatter_lib/CMakeFiles/formatter.dir
+/home/narek/Документы/timp/timp-lab04/lab03/build/formatter_lib/CMakeFiles/edit_cache.dir
+/home/narek/Документы/timp/timp-lab04/lab03/build/formatter_lib/CMakeFiles/rebuild_cache.dir
+/home/narek/Документы/timp/timp-lab04/lab03/build/formatter_ex_lib/CMakeFiles/formatter_ex.dir
+/home/narek/Документы/timp/timp-lab04/lab03/build/formatter_ex_lib/CMakeFiles/edit_cache.dir
+/home/narek/Документы/timp/timp-lab04/lab03/build/formatter_ex_lib/CMakeFiles/rebuild_cache.dir
+/home/narek/Документы/timp/timp-lab04/lab03/build/solver_lib/CMakeFiles/solver.dir
+/home/narek/Документы/timp/timp-lab04/lab03/build/solver_lib/CMakeFiles/edit_cache.dir
+/home/narek/Документы/timp/timp-lab04/lab03/build/solver_lib/CMakeFiles/rebuild_cache.dir
